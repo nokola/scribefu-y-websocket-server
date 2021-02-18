@@ -1,6 +1,6 @@
-# fly.toml file generated for withered-smoke-1981 on 2021-02-17T23:45:48-08:00
+# fly.toml file generated for monster-cola-2020 on 2021-02-18T02:08:20-08:00
 
-app = "withered-smoke-1981"
+app = "monster-cola-2020"
 
 [build]
   builtin = "node"
